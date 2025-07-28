@@ -516,56 +516,7 @@ scheduler.schedule_retraining(
     data_drift_trigger=True       # Retrain on data drift detection
 )
 ```
-
----
-
-## 🤝 **Contributing**
-
-We welcome contributions! Please follow these guidelines:
-
-### **🔧 Development Setup**
-```bash
-# 1. Fork the repository
-# 2. Create feature branch
-git checkout -b feature/amazing-feature
-
-# 3. Install development dependencies
-pip install -r requirements-dev.txt
-
-# 4. Run tests
-python -m pytest tests/
-
-# 5. Submit pull request
-```
-
-### **📋 Contribution Areas**
-- **🐛 Bug Fixes**: Issues and error handling improvements
-- **✨ New Features**: Additional ML algorithms or SAS integrations
-- **📚 Documentation**: Improvements to guides and examples
-- **🧪 Testing**: Unit tests and integration test coverage
-- **⚡ Performance**: Optimization and scalability improvements
-
----
-
-## 📜 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 **Acknowledgments**
-
-- **SAS Institute** for providing the Viya platform and integration libraries
-- **Scikit-learn Community** for the robust machine learning framework
-- **Open Source Contributors** who made this project possible
-
----
-
 <div align="center">
-
-**Built with ❤️ by the ML Engineering Team**
-
-[⭐ Star this project](../../) • [🐛 Report Bug](../../issues) • [💡 Request Feature](../../issues)
 
 **Happy Modeling! 🚀**
 
