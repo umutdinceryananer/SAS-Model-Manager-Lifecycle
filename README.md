@@ -1,4 +1,4 @@
-# 🏦 Bank Churn Prediction - Advanced SAS Model Lifecycle Platform
+# 🏦 Bank Churn Prediction - SAS Model Lifecycle Platform
 
 <div align="center">
 
